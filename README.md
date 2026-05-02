@@ -1,11 +1,11 @@
-# 🤖 Intern Performance Prediction Using Machine Learning
+#  Intern Performance Prediction Using Machine Learning
 
-## 🔷 Project Overview
+##  Project Overview
 This project focuses on predicting intern performance using machine learning techniques. By analyzing key factors such as attendance, task completion, and feedback scores, the model estimates the probability of an intern successfully completing the internship.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To build a machine learning model that predicts intern success and helps mentors identify at-risk interns early for personalized guidance.
 
 ---
